@@ -18,10 +18,6 @@ credit_risk_classification.ipynb includes all the data handling, visualization, 
 
 - RandomOverSampler from imbalenced-learn library to resample the data
 
-- Print the Classification Report for the model
-
-
-
 
 
 ## Contributors
